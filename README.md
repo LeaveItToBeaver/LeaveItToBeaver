@@ -5,12 +5,14 @@
 I was born and raised in a small town in North Carolina. Since I was a child, I have always had a passion for computers. My family has always told me that at the age of three, I started waking up early in the morning only to hop on the computer and pirate games and movies online. Oops. Whether or not that is true, I can tell you for sure that I had a deep rooted passion for understanding computers and programming.
 When I was a child, I used to take apart any electronic I could get my hands on. My poor mother had to keep vigilant at all times; stepping on a lego is bad, imagine stepping on servo torn out of an R.C. car.
 
-As I got older my interest in computers never wained. I moved from taking apart electronics to taking apart websites. That then grew into building text adventure games in Java. Spending hours on the family computer designing multiple endings to a simple story.
+As I got older my interest in computers never wained. I moved from taking apart electronics to taking apart websites. That then grew into building text adventure games in Java. Spending hours on the family computer designing multiple endings to a simple story as well as using third part software designed to help me cheat at Club Penguin and Roblox.
 
 Fast forward 15 years later and here I am; still programming, but now I get paid to do it.
 
 # What kind of projects will you find on here?
 My projects run the gamut of mobile applications written in the Flutter framework or React Native to full stack applications that range from MEAN to RF.
+
+I am in the process of deep cleaning my repos so keep in mind that this will change significantly over time.
 
 I have a table below to demonstrate where I am with my projects and what they do.
 
