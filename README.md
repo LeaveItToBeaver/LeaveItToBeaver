@@ -18,5 +18,5 @@ I have a table below to demonstrate where I am with my projects and what they do
 
 | Project | Description | Status |
 | ----------- | ----------- | ----------- |
-| HERD | A Flutter application that is built to be a replacement for traditional social media. This project is private, if you have any questions about it or would like to see the project itself, let me know. | In Progress |
-| My Wedding Website | This is a React.JS application built on top of Firebase. I don't have too much time to develop this one so I really had to hit the ground running with a tried and tested database. | In Progress |
+| HERD-Old | A Flutter application that is built to be a replacement for traditional social media. This project is private, if you have any questions about it or would like to see the project itself, let me know. | Archived |
+| My Wedding Website | This is a React.JS application built on top of Firebase. I don't have too much time to develop this one so I really had to hit the ground running with a tried and tested database. | Complete |
