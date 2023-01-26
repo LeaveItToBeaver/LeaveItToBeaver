@@ -18,6 +18,6 @@ I have a table below to demonstrate where I am with my projects and what they do
 
 | Project | Description | Status |
 | ----------- | ----------- | ----------- |
-| HERD-Old | A Flutter application that is built to be a replacement for traditional social media. This project is private, if you have any questions about it or would like to see the project itself, let me know. | Archived |
+| HERD-Old | A Flutter application that is built to be a replacement for traditional social media. It is built on top of the Flutter Framework using the BLoC architechure with a Firebase backend. This is an old passion project and I am working on an updated version now. | Archived |
 | My Wedding Website | This is a React.JS application built on top of Firebase. I don't have too much time to develop this one so I really had to hit the ground running with a tried and tested database. | Complete |
-| My Portfolio Website | This website is built using Vite, React.JS and Supabase managed by PostgreSQL. Of course everything here is made from scratch. I will use this website as a blog and Dev Journal. | In-Progress |
+| My Portfolio Website | This website is built using Vite, React.JS and Supabase managed by PostgreSQL. Of course everything here is made from scratch. I will use this website as a blog and Dev Journal. This is a work in progress and if you would like to see it, let me know. | In-Progress/Hidden |
