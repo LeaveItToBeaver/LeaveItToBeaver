@@ -1,22 +1,33 @@
-# HI! My name is Jason Beaver and this is my GitHub.
+# Hi! My name is Jason Beaver, and welcome to my GitHub!
 
-### A little about me
+### A Little About Me
 
-I was born and raised in a small town in North Carolina. Since childhood, I have always had a passion for computers. My family has always told me that at the age of three, I started waking up early in the morning only to hop on the computer and pirate games and movies online. Whether or not that is true, I can tell you for sure that I have a deep-rooted passion for understanding computers and programming.
-When I was a child, I used to take apart any electronic I could get my hands on. My poor mother had to keep vigilant at all times; stepping on a Lego is bad, imagine stepping on a servo torn out of an R.C. car.
+Born and raised in a small town in North Carolina, I've been fascinated with computers from a very young age. Whether it was pirating games or dismantling electronics, my curiosity knew no bounds. Fast forward to today, and I'm turning my passion into a profession, specializing in creating immersive and impactful digital experiences.
 
-As I got older my interest in computers never waned. I moved from taking apart electronics to taking apart websites. That then grew into building text adventure games in Java. Spending hours on the family computer designing multiple endings to a simple story.
+### Professional Summary
 
-Fast forward 15 years later and here I am; still programming, but now I get paid to do it.
+I specialize in developing mobile and full-stack applications using technologies such as Flutter, React Native, ASP.NET Core and so much more. My drive to innovate has led me to explore the intersections of technology and social engagement, striving to build platforms that not only connect people but also empower them to share and interact with content authentically and transparently.
 
-# What kind of projects will you find here?
-My projects run the gamut of mobile applications written in the Flutter framework or React Native to full-stack applications that range from MEAN to RF.
+### Skills and Technologies
 
-I have a table below to demonstrate where I am with my projects and what they do.
+- **Frontend**: React, Flutter, SvelteKit
+- **Backend**: Firebase, Supabase, Node.js, ASP.NET Core, Spring
+- **Databases**: PostgreSQL, MongoDB, SQL Server
+- **Tools & Practices**: BLoC Architecture, MVVM Design Pattern, Git, Agile methodologies, AWS
+- **Design**: Tailwind CSS, Daisy UI, Graphic Design Principles
+
+### Projects at a Glance
 
 | Project | Description | Status |
-| ----------- | ----------- | ----------- |
-| HERD-Old | A Flutter application that is built to be a replacement for traditional social media. It is built on top of the Flutter Framework using the BLoC architecture with a Firebase backend. This is an old passion project and I am working on an updated version now. | Archived |
-| My Wedding Website | This is a React.JS application built on top of Firebase. I didn't have too much time to develop this one so I really had to hit the ground running with a tried and tested database. | Complete |
-| My Blogging Website | This website is built using SvelteKit and Supabase managed by PostgreSQL. To manage the CSS, I am using Tailwind as well as Daisy UI. I will use this website as a blog and Dev Journal. | In-Progress/Public |
-| HERD | A Flutter application that is built to be a replacement for traditional social media. It is built on top of the Flutter Framework using the BLoC architecture with a Firebase backend. Facebook, Twitter, and, Instagram are all platforms of the past. My goal here is to build a social media platform of the future using tried and true methods while also expanding upon new ideas. | In-Progress/Hidden |
+| ------- | ----------- | ------ |
+| HERD-Old | An ambitious Flutter application aimed at redefining social media interaction. | Archived |
+| My Wedding Website | A React.js application showcasing my rapid development skills. | Complete |
+| My Blogging Website | A platform for sharing my development journey, built with SvelteKit and Supabase. | In-Progress/Public |
+| HERD | The future of social media, focusing on user empowerment and data democratization. | In-Progress/Hidden |
+
+### Let's Connect!
+
+I'm always on the lookout for new challenges and collaborations. Feel free to explore my projects, and don't hesitate to reach out if you're interested in working together.
+
+[LinkedIn](https://www.linkedin.com/in/jason-beaver-0177651a3/) | [Email](mailto:jasonbeaverw99@gmail.com)
+
