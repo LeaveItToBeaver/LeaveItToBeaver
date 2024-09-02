@@ -2,7 +2,7 @@
 
 ### A Little About Me
 
-Born and raised in a small town in North Carolina, I've been fascinated with computers from a very young age. Whether it was pirating games or dismantling electronics, my curiosity knew no bounds. Fast forward to today, and I'm turning my passion into a profession, specializing in creating immersive and impactful digital experiences.
+Born and raised in a small town in North Carolina, I've been fascinated with computers from a very young age. Whether it was pirating games or dismantling electronics, my curiosity knew no bounds. Fast forward to today, and I'm turning my passion into a profession.
 
 ### Professional Summary
 
