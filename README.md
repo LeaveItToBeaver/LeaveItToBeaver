@@ -25,9 +25,5 @@ I specialize in developing mobile and full-stack applications using technologies
 | My Blogging Website | A platform for sharing my development journey, built with SvelteKit and Supabase. | In-Progress/Public |
 | HERD | The future of social media, focusing on user empowerment and data democratization. | In-Progress/Hidden |
 
-### Let's Connect!
-
-I'm always on the lookout for new challenges and collaborations. Feel free to explore my projects, and don't hesitate to reach out if you're interested in working together.
 
 [LinkedIn](https://www.linkedin.com/in/jason-beaver-0177651a3/) | [Email](mailto:jasonbeaverw99@gmail.com)
-
