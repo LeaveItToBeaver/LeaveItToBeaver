@@ -20,7 +20,7 @@ I specialize in developing mobile and full-stack applications using technologies
 
 | Project | Description | Status |
 | ------- | ----------- | ------ |
-| HERD-Old | An ambitious Flutter application aimed at redefining social media interaction. | Archived |
+| HERD_old | An ambitious Flutter application aimed at redefining social media interaction. | Archived |
 | My Wedding Website | A React.js application showcasing my rapid development skills. | Complete |
 | My Blogging Website | A platform for sharing my development journey, built with SvelteKit and Supabase. | In-Progress/Public |
 | HERD | The future of social media, focusing on user empowerment and data democratization. | In-Progress/Hidden |
