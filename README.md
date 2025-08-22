@@ -4,9 +4,6 @@
 
 ![LeaveItToBeaver's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveItToBeaver&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
-
-![LeaveItToBeaver's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeaveItToBeaver&theme=cobalt&hide_border=false)
-
 ---
 
 I build fast, human-friendly apps and the infrastructure to support them. My work spans mobile (Flutter), web (React/SvelteKit), and backends (.NET/Firebase/Node), with a bias toward clear architecture, performance, and maintainability.
