@@ -18,12 +18,13 @@ I specialize in developing mobile and full-stack applications using technologies
 
 ### Projects at a Glance
 
-| Project | Description | Status |
-| ------- | ----------- | ------ |
-| [HERD_old](https://github.com/LeaveItToBeaver/HERD_old) | An older and archived version of a passion project. | Archived |
-| [My Wedding Website](https://github.com/LeaveItToBeaver/wedding_website) | A React.js application showcasing my development skills. | Complete |
-| [My Blogging Website](https://github.com/LeaveItToBeaver/BloggingWebsite) | A platform for sharing my development journey, built with SvelteKit and Supabase. | In-Progress/Public |
-| [HERD](https://github.com/LeaveItToBeaver/Herd) | My passion project. A unique way to look at social media. | In-Progress/Public |
+| Project | Description |
+| ------- | ----------- |
+| [HERD](https://github.com/LeaveItToBeaver/Herd) | My passion project. A unique way to look at social media.
+| [amlang](https://github.com/LeaveItToBeaver/algorithmic-mathematics) | A fun side project written in rust. A programming language designed to be written on pencil and paper AND directly translate 1 - 1 with code.
+| [HERD_old](https://github.com/LeaveItToBeaver/HERD_old) | An older and archived version of a passion project.
+| [My Wedding Website](https://github.com/LeaveItToBeaver/wedding_website) | A React.js application showcasing my development skills. 
+| [My Blogging Website](https://github.com/LeaveItToBeaver/BloggingWebsite) | A platform for bloggers, built with SvelteKit and Supabase.
 
-
+## Contact me:
 [LinkedIn](https://www.linkedin.com/in/jason-beaver-0177651a3/) | [Email](mailto:jasonbeaverw99@gmail.com)
