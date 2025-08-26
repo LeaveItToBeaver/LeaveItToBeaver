@@ -35,9 +35,9 @@ License: Proprietary (closed beta)
 **Tech**: Flutter (Dart), Riverpod 2.x, GoRouter, Freezed, JsonSerializable, Firebase Auth/Firestore/Storage, Cloud Functions
 
 **What to look at**
-- `lib/core/utils/hot_algorithm.dart` — time-decay ranking
-- `lib/features/social/chat_messaging/…` — crypto + messaging repo + widgets
 - `functions/` — triggers, notifications, score recalcs, callable endpoints
+- `functions/utils.js` — time-decay ranking
+- `lib/features/social/chat_messaging/…` — crypto + messaging repo + widgets
 
 ---
 
