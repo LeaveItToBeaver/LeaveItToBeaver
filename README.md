@@ -63,7 +63,7 @@ License: MIT
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/jason-beaver-0177651a3/  
+- LinkedIn: https://www.linkedin.com/in/jason-beaver-dev  
 - Email: jasonbeaverw99@gmail.com
 
 ---
