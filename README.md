@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=AE8EF7&width=435&lines=Full-Stack+Engineer;Mobile-first+Product+Builder;Software+Architect;Data+Analyst)](https://git.io/typing-svg)
 
-![LeaveItToBeaver's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveItToBeaver&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
-
 ---
 
 I build fast, human-friendly apps and the infrastructure to support them. My work spans mobile (Flutter), web (React/SvelteKit), and backends (.NET/Firebase/Node), with a bias toward clear architecture, performance, and maintainability.
